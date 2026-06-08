@@ -1,0 +1,13 @@
+{
+    "folders": ["~/Desktop"],
+    "schedule_time": "03:00",
+    "enable_logging": true,
+    "log_directory": "~/Library/Logs/DesktopOrganizer",
+    "rules": {
+        "图片": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp", ".heic", ".tiff"],
+        "文档": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".md", ".csv", ".pages", ".numbers", ".key"],
+        "视频": [".mp4", ".avi", ".mkv", ".mov", ".wmv", ".flv"],
+        "压缩包": [".zip", ".rar", ".7z", ".tar", ".gz"],
+        "音频": [".mp3", ".wav", ".flac", ".aac", ".m4a"]
+    }
+}

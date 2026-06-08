@@ -1,0 +1,3 @@
+# 无额外依赖
+# 本工具仅使用 Python 3 标准库 (os, shutil, json, plistlib, logging, argparse, pathlib, subprocess)
+# pip install -r requirements.txt 无需安装任何包即可运行
